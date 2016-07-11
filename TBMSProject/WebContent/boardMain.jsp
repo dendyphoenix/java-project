@@ -5,39 +5,29 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Insert title here</title>
+
 	<style>
-			.maintopimg{
+		.maintopimg{
 			height : 150px;
 			width : 1270px;
 		}
 		#main_menuArea{
 			border : 5px double gray;
-			background : #000000;
+			background : black;
 			height : 30px;
 			width : 1260px;
 		}
 		.main_menu{
 			height : 30px;
 		}
-		#noticeMain_left{
-			background : black;
-			border : 3px double gray;
-			width : 200px;
-			height : 700px;
-			float : left;
-			
-		}
-		#notice_table{
-			color : white;
-		}
 		
 	
-	
 	</style>
-
-
+	
+	
 </head>
 <body>
+
 	<section id = "main_top">
 		<header>
 		<a href = "Main.jsp">
@@ -55,27 +45,8 @@
 		</section>
 	
 	</section>
-	<section id = "noticeMain">
-		<aside id = "noticeMain_left">
-				<table id = "notice_table">
-					<tr>
-						<td><a href = "noticeList.jsp">공지사항</a></td>
-					</tr>
-					<tr>
-						<td><a href = "images/ej.jpg">왠지 클릭하고싶을거같음</a></td>
-					</tr>
-					
-					
-					
-					
-				
-				</table>
-			
-		</aside>
-	
-	
-	
-	</section>
+
+
 
 
 

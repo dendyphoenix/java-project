@@ -12,8 +12,8 @@
 			width : 1270px;
 		}
 		#main_menuArea{
-			border : 5px double hotpink;
-			background : pink;
+			border : 5px double gray;
+			background : black;
 			height : 30px;
 			width : 1260px;
 		}
@@ -38,9 +38,9 @@
 			
 			<a href = "noticeMain.jsp"><img src = "images/main_notice.jpg" class = "main_menu"></a>
 			<a href = "boardMain.jsp"><img src = "images/main_board.png" class = "main_menu"></a>
-			<a href = "noticeMain.jsp">커뮤니티</a>
-			<a href = "noticeMain.jsp">계량기</a>
-			<a href = "noticeMain.jsp">편의시설</a>
+			<a href = "noticeMain.jsp"><img src = "images/main_coco.png" class = "main_menu"></a>
+			<a href = "noticeMain.jsp"><img src = "images/main_meter.png" class = "main_menu"></a>
+			<a href = "noticeMain.jsp"><img src = "images/main_sisul.png" class = "main_menu"></a>
 			
 		</section>
 	
